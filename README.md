@@ -9,8 +9,8 @@ Originally created NIIBE Yutaka and published to Github by Joel Dare on January
 This only works on USB hubs that have the hardware necessary to allow
 software controlled power switching. Most hubs DO NOT include the hardware.
 
-Prerequisits
-============
+Prerequisites
+=============
 
 Before compiling it, you'll need to install libusb-dev (under Ubuntu). I
 installed that with the following command.
