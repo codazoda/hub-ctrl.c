@@ -54,6 +54,18 @@ numbers as well. Here's the command for that.
 This time we are controlling the device on BUS 001 (-b 001) device 005 (-d 005)
 port 1 (-P 1) and turning the power off (-p 0).
 
+Hubs Known to Work
+==================
+
+The following is a list of Hubs that are known to have the hardware necessary
+to allow power switching.
+
+  - D-Link-DUB-H7-High-Speed-7-Port (Old version: Silver)
+  - Elecom: U2H-G4S
+  - Sanwa Supply: USB-HUB14GPH
+  - Targus, Inc.: PAUH212
+  - Hawking Technology: UH214
+
 Original Copyright
 ==================
 
