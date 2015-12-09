@@ -65,6 +65,7 @@ to allow power switching.
   - Sanwa Supply: USB-HUB14GPH
   - Targus, Inc.: PAUH212
   - Hawking Technology: UH214
+  - B&B Electronics: UHR204
 
 Original Copyright
 ==================
