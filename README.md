@@ -66,6 +66,7 @@ to allow power switching.
   - Targus, Inc.: PAUH212
   - Hawking Technology: UH214
   - B&B Electronics: UHR204
+  - Linksys: USB2HUB4
 
 Original Copyright
 ==================
