@@ -67,6 +67,7 @@ to allow power switching.
   - Hawking Technology: UH214
   - B&B Electronics: UHR204
   - Belkin: F5U701
+  - Linksys: USB2HUB4
 
 Original Copyright
 ==================
