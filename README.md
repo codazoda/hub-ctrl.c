@@ -66,6 +66,7 @@ to allow power switching.
   - Targus, Inc.: PAUH212
   - Hawking Technology: UH214
   - B+B SmartWorx: UHR204
+  - B+B SmartWorx: USH304
   - Belkin: F5U701
   - Linksys: USB2HUB4
 
