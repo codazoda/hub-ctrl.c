@@ -60,7 +60,7 @@ Hubs Known to Work
 The following is a list of Hubs that are known to have the hardware necessary
 to allow power switching.
 
-  - D-Link-DUB-H7-High-Speed-7-Port (Tested with old Silver versions (A3, A4 & A5). Also tested with newer Black version C1).
+  - D-Link-DUB-H7-High-Speed-7-Port (Tested with old Silver versions (A3, A4 & A5). Also tested with newer Black version C1 although there is one issue reporting that the C1 didn't work).
   - Elecom: U2H-G4S
   - Sanwa Supply: USB-HUB14GPH
   - Targus, Inc.: PAUH212
