@@ -49,7 +49,7 @@ in my case).
 Now that we know the BUS and DEV numbers, we can control the power using those
 numbers as well. Here's the command for that.
 
-    sudo ./hub-ctrl -b 001 -d 005 -P1 -p 0
+    sudo ./hub-ctrl -b 001 -d 005 -P 1 -p 0
 
 This time we are controlling the device on BUS 001 (-b 001) device 005 (-d 005)
 port 1 (-P 1) and turning the power off (-p 0).
