@@ -65,8 +65,8 @@ to allow power switching.
   - Sanwa Supply: USB-HUB14GPH
   - Targus, Inc.: PAUH212
   - Hawking Technology: UH214
-  - B+B SmartWorx: UHR204
-  - B+B SmartWorx: USH304
+  - B+B SmartWorx (B+B Electronics): UHR204
+  - B+B SmartWorx (B+B Electronics): USH304
   - Belkin: F5U701
   - Linksys: USB2HUB4
 
