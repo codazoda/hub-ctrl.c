@@ -3,7 +3,7 @@ hub-ctrl.c
 
 Control USB power on a port by port basis on some USB hubs.
 
-Originally created NIIBE Yutaka and published to Github by Joel Dare on January
+Originally created by NIIBE Yutaka and published to Github by Joel Dare on January
 31st, 2013.
 
 This only works on USB hubs that have the hardware necessary to allow
