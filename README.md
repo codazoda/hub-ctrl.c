@@ -5,7 +5,7 @@ hub-ctrl.c
 
 Control USB power on a port by port basis on some USB hubs.
 
-Originally created NIIBE Yutaka and published to Github by Joel Dare on January
+Originally created by NIIBE Yutaka and published to Github by Joel Dare on January
 31st, 2013.
 
 This only works on USB hubs that have the hardware necessary to allow
@@ -51,7 +51,7 @@ in my case).
 Now that we know the BUS and DEV numbers, we can control the power using those
 numbers as well. Here's the command for that.
 
-    sudo ./hub-ctrl -b 001 -d 005 -P1 -p 0
+    sudo ./hub-ctrl -b 001 -d 005 -P 1 -p 0
 
 This time we are controlling the device on BUS 001 (-b 001) device 005 (-d 005)
 port 1 (-P 1) and turning the power off (-p 0).
@@ -62,12 +62,13 @@ Hubs Known to Work
 The following is a list of Hubs that are known to have the hardware necessary
 to allow power switching.
 
-  - D-Link-DUB-H7-High-Speed-7-Port (Tested with old Silver versions (A3, A4 & A5). Also tested with newer Black version C1).
+  - D-Link-DUB-H7-High-Speed-7-Port (Tested with old Silver versions (A3, A4 & A5). Also tested with newer Black version C1 although there is one issue reporting that the C1 didn't work).
   - Elecom: U2H-G4S
   - Sanwa Supply: USB-HUB14GPH
   - Targus, Inc.: PAUH212
   - Hawking Technology: UH214
-  - B&B Electronics: UHR204
+  - B+B SmartWorx (B&B Electronics): UHR204
+  - B+B SmartWorx (B&B Electronics): USH304
   - Belkin: F5U701
   - Linksys: USB2HUB4
 
