@@ -1,6 +1,8 @@
 hub-ctrl.c
 ==========
 
+> 💡 Enjoy this tool? Get my weekly developer notes → [joeldare.com/subscribe](https://joeldare.com/subscribe)
+
 Control USB power on a port by port basis on some USB hubs.
 
 Originally created NIIBE Yutaka and published to Github by Joel Dare on January
